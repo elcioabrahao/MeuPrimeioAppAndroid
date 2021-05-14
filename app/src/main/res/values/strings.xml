@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Meu Primeiro APP!</string>
+    <string name="action_settings">Opções</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primeiro Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Volta</string>
+    <string name="titulo_app">Operações Aritméticas</string>
+
+    <string name="hello_first_fragment">Alô Mundo - Meu primeio APP</string>
+    <string name="hello_second_fragment">Segunda tela -->. Arg: %1$s</string>
+</resources>
