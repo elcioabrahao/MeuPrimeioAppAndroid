@@ -27,6 +27,8 @@ public class FirstFragment extends Fragment {
 
     }
 
+    // Comentário para demonstração do GIT
+
     public void onViewCreated(@NonNull View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
